@@ -1,1 +1,2 @@
-this is my file 2 in my one folder to publish on github
+this is my file 2 in my one folder to publish on github/
+file2 in modified
