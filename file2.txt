@@ -4,3 +4,4 @@ file2 in modified
 this is the change i have made in my bug-fix branch
 
 this is the change i have made in my master branch again
+this is the new change is in random branch
