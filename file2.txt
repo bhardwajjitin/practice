@@ -2,10 +2,4 @@ this is my file 2 in my one folder to publish on github/
 file2 in modified
 
 
-<<<<<<< Updated upstream
-this is the new change in random branch
-=======
-this is the change i have made in my master branch again
-
-this is change made again in my file2.txt in main branch
->>>>>>> Stashed changes
+this is the new change is in random branch
